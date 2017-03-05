@@ -1,0 +1,58 @@
+body {
+    font-family: 'Reenie Beanie';
+    text-align: center;
+    background-color: #FAE43E;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+#header {
+    background-color: #000000;
+    padding:80px;
+    margin-bottom:50px;
+}
+
+#header h1, #header h2 { 
+    color: #FFFFFF;
+}
+
+#about h2	{
+	margin-bottom: 50px;
+}
+
+#about {
+	background-color : #000000;
+    margin-bottom: 50px;
+}
+
+#about h2, #about p { 
+    color: #FFFFFF;
+}
+
+#projects {
+	background-color : #000000;
+    margin-bottom: 50px;
+}
+
+#projects h2, #projects p, #projects h3 { 
+    color: #FFFFFF;
+}
+
+#photo	{
+	background-color: #000000;
+	margin-bottom: 50px;
+}
+
+#contact	{
+	background-color: #000000;
+	margin-bottom: 50px;
+}
+
+
+
